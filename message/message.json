@@ -1,0 +1,11 @@
+{
+  "register_success":"User registered successfully",
+  "login_success":"Login successful",
+  "server_error":"Server Error",
+  "user_already_exits":"User already exists",
+  "invalid_password":"Invalid password",
+  "user_not_found":"User not found",
+  "student_created":"New student created successfully",
+  "required_fields":" Required Fields",
+  "invalid_request":"Invalid request"
+}
